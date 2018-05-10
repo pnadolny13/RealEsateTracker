@@ -1,0 +1,4 @@
+
+*.sqlite3
+property_tracker/property_tracker/settings.py
+*.pyc
